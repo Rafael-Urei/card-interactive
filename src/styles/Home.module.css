@@ -5,10 +5,11 @@
   align-items: center;
   gap: 100px;
   font-family: 'Space Grotesk', sans-serif;
+  background-color: #fff;
 }
 
 .cards_container {
-  background: black url('../../public/bg-main-desktop.png') no-repeat center center;
+  background: url('../../public/bg-main-desktop.png') no-repeat center center;
   background-size: cover;
   height: 100vh;
   width: 40vw;
